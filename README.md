@@ -9,3 +9,10 @@ Zad1
 * docker rm apache
 * docker rmi httpd
 
+
+
+Zad2
+
+* docker build -t app .
+* docker run -p 5000:5000 app
+
