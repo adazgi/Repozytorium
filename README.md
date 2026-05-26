@@ -14,5 +14,5 @@ Zad1
 Zad2
 
 * docker build -t app .
-* docker run -p 5000:5000 app
+* docker run -p 5000:5000 app 
 
